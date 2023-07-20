@@ -1,3 +1,3 @@
-print ("This is a sample.")
+# This program prints Hello, world!
 
-print ("\n")
+print('Hello, world!')
